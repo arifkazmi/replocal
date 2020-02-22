@@ -3,3 +3,5 @@ this is the file for the new branch to push or pull online
 commit no 1,
 
 commit no 2
+
+this line is the line to be committed to see the git reset hard command
