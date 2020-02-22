@@ -3,3 +3,5 @@ this is second file in local repository
 a change is making for pull purpose in the local from the remote using terminal
 
 3rd branch is used to make the changes
+
+the line for using reset hard command
