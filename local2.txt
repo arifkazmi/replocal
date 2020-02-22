@@ -1,1 +1,3 @@
 this is second file in local repository
+
+a change is making for pull purpose in the local from the remote using terminal
